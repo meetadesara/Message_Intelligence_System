@@ -64,7 +64,7 @@ All three models are evaluated on an identical held-out test set. Final model se
 |---|---|
 | Notebook | [`Notebook/Spam_Detection_Pipeline.ipynb`](./Notebook/Spam_Detection_Pipeline.ipynb) |
 | Dataset | [`Dataset/Message_Intelligence_Dataset.csv`](./Dataset/Message_Intelligence_Dataset.csv) |
-| Theory / Concepts | [`Theory_PDF/Theory.pdf`](./Theory_PDF/Theory.pdf) |
+| Theory / Concepts | [`Docs/Theory.pdf`](./Theory_PDF/Theory.pdf) |
 
 ```
 Spam-Detection-Pipeline/
