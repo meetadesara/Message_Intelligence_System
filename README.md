@@ -94,6 +94,6 @@ jupyter notebook Notebook/Spam_Detection_Pipeline.ipynb
 
 ---
 
-## 🙋 Maintainer
+## 🙋 AD MEET
 
 Built as part of an AI/ML & Data Science coursework project.
